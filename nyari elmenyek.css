@@ -1,7 +1,13 @@
 body{
     margin: auto;
-    width: 70%;
+    width: 90%;
+    background-size: 1em;
 }
-nav{
-    
+h1{
+    text-align: center;
+
+}
+.carousel-inner img {
+    width: 1300px;
+    height: 600px;
 }
