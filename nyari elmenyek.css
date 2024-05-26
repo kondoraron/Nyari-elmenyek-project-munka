@@ -5,9 +5,19 @@ body{
 }
 h1{
     text-align: center;
+    height: 100px;
+    color: green;
+    font-weight: bold;
 
 }
 .carousel-inner img {
     width: 1300px;
     height: 600px;
+}
+h2{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
 }
