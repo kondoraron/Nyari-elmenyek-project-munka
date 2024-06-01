@@ -1,23 +1,25 @@
 body{
     margin: auto;
-    width: 90%;
-    background-size: 1em;
+    width: 100%;
+    
+    
 }
 h1{
     text-align: center;
-    height: 100px;
-    color: green;
     font-weight: bold;
+    position: relative;
+    color: green;
+    
 
 }
 h2{
-    text-align: center;
+    text-align: left;
+    color: green;
     
 }
 h3{
     text-align: center;
 }
-.carousel-inner img{
-    width: 100%;
-    height: 90%;
+p{
+    text-align: justify center;
 }
